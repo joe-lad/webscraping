@@ -43,5 +43,5 @@ while True:
     dat.append(float(value.text[1:].replace(',', '')))
     Ln.set_ydata(dat)
     Ln.set_xdata(range(len(dat)))
-    plt.pause(5)
+    plt.pause(60*20)
     print(value.text, timenow)
