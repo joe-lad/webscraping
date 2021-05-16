@@ -43,3 +43,4 @@ for details in info:
     #     if prices <= userPrice:
     #         allprices.append(prices)
     # print(name['alt'] + '\n' + allprices + '\n' + link['href'] + '\n--------------------')
+ 
